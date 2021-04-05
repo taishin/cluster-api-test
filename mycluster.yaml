@@ -62,7 +62,7 @@ metadata:
   name: mng-0
   namespace: default
 spec:
-  eksNodegroupName: mmng-0
+  eksNodegroupName: mng-0
   additionalTags:
     env: test
   roleName: nodes.cluster-api-provider-aws.sigs.k8s.io
